@@ -1,4 +1,4 @@
-# 🚀🔏-Password-StrengthMeter
+# 🔏 Password-StrengthMeter
 
  # Features
    -Instantly checks your password strength
@@ -6,7 +6,7 @@
    -User-friendly and clean interface
    -Built with Streamlit and Python
 
-# 🛠️-How it Works
+#  How it Works
    -The app evaluates your password based on the following criteria:
    -Minimum 8 characters long
    -Contains both uppercase and lowercase letters
